@@ -70,7 +70,7 @@
 #news
 {	
 	float: left;
-	width: 60%;
+	width: 30%;
 	padding: 20px;
 	margin: 20px;
 	-webkit-border-radius: 18px;
@@ -87,7 +87,7 @@
 #news:hover
 {	
 	float: left;
-	width: 75%;
+	width: 31%;
 	padding: 20px;
 	margin: 20px;
 	-webkit-border-radius: 18px;
